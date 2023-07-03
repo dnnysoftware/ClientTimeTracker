@@ -3,6 +3,9 @@ import React from 'react';
 import Form from './Form';
 import Entries from './Entries';
 
+/**
+ * The main App component which consolidates all other components
+ */
 class App extends React.Component {
 
   constructor(props) {

@@ -1,6 +1,9 @@
 import React from 'react';
 import Client from './Client';
 
+/**
+ * The Entries of all the time blocks which can be edited or deleted
+ */
 class Entries extends React.Component {
   constructor(props) {
     super(props);

@@ -1,5 +1,9 @@
 import React from 'react';
 
+/**
+ * The client modal section where one can add new clients and see how many accumulated hours 
+ * you had a client. These values can be modified when entries are are altered.
+ */
 class Client extends React.Component {
   constructor(props) {
     super(props);

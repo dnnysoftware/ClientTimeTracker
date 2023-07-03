@@ -1,5 +1,8 @@
 import React from 'react';
 
+/**
+ * The Time component that accumulates time for a particular session.
+ */
 class Time extends React.Component {
 
     constructor(props) {

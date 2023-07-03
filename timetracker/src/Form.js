@@ -1,6 +1,10 @@
 import React from 'react'
 import Time from './Time';
 
+/**
+ * The Form component where you configure the client you are meeting with and the project you are 
+ * working on together, this will then be configured as an entry in Entries 
+ */
 class Form extends React.Component {
 
     constructor(props) {
