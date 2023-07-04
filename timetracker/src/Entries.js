@@ -89,7 +89,6 @@ class Entries extends React.Component {
       this.props.clientsCallback(newClients);
     }
   }
-  
 
   render() {
     return (
